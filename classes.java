@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class hello{
+public class HARSHITHA{
     public static void main(String[] args){
         student std= new student();
         Scanner scr = new Scanner(System.in);
