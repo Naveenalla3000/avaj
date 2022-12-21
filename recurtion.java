@@ -12,7 +12,7 @@ class Scratch {
     }
     static int function(int A){
 
-           if( A == 1){
+           if( A == 1 || A == 0){
                return 1;
            }
            else{
